@@ -1,0 +1,44 @@
+/*  цвет текста  #212121; */
+/* основной цвет текста #757575;
+ */
+/* синий цвет текста #2196F3; */
+/* белый цвет текста #FFFFFF; */
+/* подвал текст rgba(255, 255, 255, 0.6); */
+/* фон background: #E5E5E5; */
+/* вторичный фон background: #F5F4FA; */
+/* еще фон черный background: #2F303A; */
+
+body {
+  background: #e5e5e5;
+  color: #757575;
+}
+
+.list {
+  list-style: none;
+}
+
+.logo {
+  color: #212121;
+  text-decoration: none;
+}
+.logo-color {
+  color: #2196f3;
+}
+
+/* site nav */
+.hero-title {
+  color: #212121;
+}
+.site-nav {
+  color: #cc0d0d;
+}
+.color-st {
+  color: #2196f3;
+  text-decoration: none;
+}
+.section-title {
+  color: #212121;
+}
+.feature {
+  color: #757575;
+}
