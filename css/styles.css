@@ -42,3 +42,23 @@ body {
 .feature {
   color: #757575;
 }
+
+.contact-tell {
+  color: #757575;
+}
+.contact-mail {
+  color: #2196f3;
+}
+.address-street {
+  color: #ffffff;
+  text-decoration: none;
+}
+.address-net {
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+}
+/* button */
+.button {
+  color: #ffffff;
+  background-color: #2196f3;
+}
