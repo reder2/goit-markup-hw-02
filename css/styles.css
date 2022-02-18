@@ -88,7 +88,6 @@ body {
 button {
   font-family: inherit;
 }
-
 .hero-title {
   color: var(--primary-text-color);
   font-weight: 900;
